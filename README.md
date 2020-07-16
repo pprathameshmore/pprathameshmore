@@ -12,5 +12,4 @@
 - ⚡ Fun fact: I spend almost 7 hours listening songs everyday.
 - 💼 I'm looking for Junior Backend Developer positions.
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=pprathameshmore&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=F7AC33" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pprathameshmore&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=F7AC33" alt="stats" />
