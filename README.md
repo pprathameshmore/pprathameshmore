@@ -10,6 +10,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prathamesh-more/) or [Twitter](https://twitter.com/pprathameshmore)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 7 hours listening songs everyday.
-- 💼 I'm looking for Junior Backend Developer positions.
+- 💼 I'm looking for Junior Backend Engineer or Full Stack Engineer positions.
 
 <img src="https://github-readme-stats.vercel.app/api?username=pprathameshmore&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=F7AC33" alt="stats" />
