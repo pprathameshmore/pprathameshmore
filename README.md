@@ -9,7 +9,7 @@
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prathamesh-more/) or [Twitter](https://twitter.com/pprathameshmore)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 7 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 4 hours listening songs everyday.
 - 💼 I'm looking for Junior Backend Engineer or Full Stack Engineer positions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=pprathameshmore&color=yellow)
